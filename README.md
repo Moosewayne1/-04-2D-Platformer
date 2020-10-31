@@ -4,3 +4,4 @@ This is an empty Godot project that can be used as a starting place for Godot re
 
 ## Implementation
 Created in Godot 3.2.2
+This project was created using the playlist provided by Professor Francis. I added a background from one of my favorite shows and composed original music for the game as well. 
